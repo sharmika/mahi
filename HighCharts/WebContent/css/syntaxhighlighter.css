@@ -1,0 +1,8 @@
+.syntaxhighlighter .toolbar
+{
+    display:none;
+}
+.syntaxhighlighter { 
+    overflow-y: hidden !important;
+    /*overflow-x: auto !important;*/ 
+}
